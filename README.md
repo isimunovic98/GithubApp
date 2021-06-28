@@ -11,13 +11,13 @@ different querry. Tabs are made using 'Tabman' (https://github.com/uias/Tabman).
 
 ## Implementation
 
-** UIKit
-** MVVM arhitecure
-** Combine framework
-** TableView
-** Tabman
-** WebView
-** Coordinators
+* UIKit
+* MVVM arhitecure
+* Combine framework
+* TableView
+* Tabman
+* WebView
+* Coordinator pattern
 
 ## Screenshots
 <img width="568" alt="Screenshot 2021-06-28 at 15 18 19" src="https://user-images.githubusercontent.com/68013386/123645724-db07a400-d826-11eb-8392-599e5e58e6a3.png">
