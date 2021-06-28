@@ -20,8 +20,10 @@ different querry. Tabs are made using 'Tabman' (https://github.com/uias/Tabman).
 ** Coordinators
 
 ## Screenshots
-<img width="424" alt="Screenshot 2021-06-28 at 15 17 08" src="https://user-images.githubusercontent.com/68013386/123645590-c4614d00-d826-11eb-90b3-154d0e80959b.png">
-
+<img width="568" alt="Screenshot 2021-06-28 at 15 18 19" src="https://user-images.githubusercontent.com/68013386/123645724-db07a400-d826-11eb-8392-599e5e58e6a3.png">
+<img width="568" alt="Screenshot 2021-06-28 at 15 19 46" src="https://user-images.githubusercontent.com/68013386/123645738-de9b2b00-d826-11eb-8b0b-f4bc1f5df478.png">
+<img width="568" alt="Screenshot 2021-06-28 at 15 36 24" src="https://user-images.githubusercontent.com/68013386/123645746-e064ee80-d826-11eb-84ea-1eeb0b0bb468.png">
+<img width="568" alt="Screenshot 2021-06-28 at 15 36 33" src="https://user-images.githubusercontent.com/68013386/123645751-e22eb200-d826-11eb-892d-20b6156bee2c.png">
 
 ## Getting Started
 
